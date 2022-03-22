@@ -1,0 +1,6 @@
+applications3: Apple.QuickTime.MP4.stbl.Atom.Handling.Heap.Overflow*,FalsePositive,FC 22-03-2022- From False Positive list
+misc: SSLv2.Openssl.Get.Shared.Ciphers.Overflow.Attempt*,FalsePositive,FC 22-03-2022- From False Positive list
+applications3: Java.Web.Start.Launcher.ActiveX.Control.Access*,FalsePositive,FC 22-03-2022- From False Positive list
+applications3: Apple.QuickTime.MP4.stbl.Atom.Handling.Heap.Overflow*,FalsePositive,FC 22-03-2022- From False Positive list
+applications3: VNC.Server.ClientCut.Message.Memory.Corruption*,FalsePositive,FC 22-03-2022- From False Positive list
+file_transfer: TFTP.Server.Buffer.Overflow or TFTP.Server.Buffer.Overflow*,FalsePositive,FC 22-03-2022- From False Positive list
