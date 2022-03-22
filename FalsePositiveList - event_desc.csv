@@ -1,7 +1,0 @@
-field1,condition1,comment
-event_desc,applications3: Apple.QuickTime.MP4.stbl.Atom.Handling.Heap.Overflow*,FC 22-03-2022- From False Positive list
-event_desc,misc: SSLv2.Openssl.Get.Shared.Ciphers.Overflow.Attempt*,FC 22-03-2022- From False Positive list
-event_desc,applications3: Java.Web.Start.Launcher.ActiveX.Control.Access*,FC 22-03-2022- From False Positive list
-event_desc,applications3: Apple.QuickTime.MP4.stbl.Atom.Handling.Heap.Overflow*,FC 22-03-2022- From False Positive list
-event_desc,applications3: VNC.Server.ClientCut.Message.Memory.Corruption*,FC 22-03-2022- From False Positive list
-event_desc,file_transfer: TFTP.Server.Buffer.Overflow or TFTP.Server.Buffer.Overflow*,FC 22-03-2022- From False Positive list
