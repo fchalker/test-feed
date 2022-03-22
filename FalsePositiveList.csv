@@ -1,0 +1,15 @@
+field1,condition1,field2,condition2,comment
+ip_src,10.111.100.66,n/a,n/a,FalsePositive,TK 22-03-2022- Customers Nessus Security Scanner
+event_desc,applications3: Apple.QuickTime.MP4.stbl.Atom.Handling.Heap.Overflow*,n/a,n/a,FalsePositive,FC 22-03-2022- From False Positive list
+event_desc,misc: SSLv2.Openssl.Get.Shared.Ciphers.Overflow.Attempt*,n/a,n/a,FalsePositive,FC 22-03-2022- From False Positive list
+event_desc,applications3: Java.Web.Start.Launcher.ActiveX.Control.Access*,n/a,n/a,FalsePositive,FC 22-03-2022- From False Positive list
+event_desc,applications3: Apple.QuickTime.MP4.stbl.Atom.Handling.Heap.Overflow*,n/a,n/a,FalsePositive,FC 22-03-2022- From False Positive list
+event_desc,applications3: VNC.Server.ClientCut.Message.Memory.Corruption*,n/a,n/a,FalsePositive,FC 22-03-2022- From False Positive list
+event_desc,file_transfer: TFTP.Server.Buffer.Overflow or TFTP.Server.Buffer.Overflow*,n/a,n/a,FalsePositive,FC 22-03-2022- From False Positive list
+event_desc,*Apache.Optionsbleed.Scanner*,ip_dst,148.153.34.154,FalsePositive,FC 22-03-2022- From False Positive list
+event_desc,*Apache.Optionsbleed.Scanner*,ip_dst,148.153.35.66,FalsePositive,FC 22-03-2022- From False Positive list
+event_desc,*Apache.Optionsbleed.Scanner*,ip_dst,103.235.46.39,FalsePositive,FC 22-03-2022- From False Positive list
+event_desc,*Apache.Optionsbleed.Scanner*,ip_dst,122.246.9.7,FalsePositive,FC 22-03-2022- From False Positive list
+event_desc,*Apache.Optionsbleed.Scanner*,alias_host,cm.bilibili.com,FalsePositive,FC 22-03-2022- From False Positive list
+event_desc,*Apache.Optionsbleed.Scanner*,alias_host,ww.baidu.com,FalsePositive,FC 22-03-2022- From False Positive list
+param,C:\WINDOWS\system32\cmd.exe /d /c 'C:\Program Files\Adobe\Acrobat DC\Acrobat\Browser\WCChromeExtn\WCChromeNativeMessagingHost.exe' chrome-extension,alias_host,LT-NMIDDELMANN,FalsePositive,FC 22-03-2022- Closed in SIEM by FS not sure about this one
